@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="IIoT.API/IIoT.API.csproj" />
+  <Project Path="IIoT.Application/IIoT.Application.csproj" Id="da56b209-f7e5-4bb3-ad39-2811e9c59f52" />
+  <Project Path="IIoT.Domain/IIoT.Domain.csproj" Id="e409e4b2-8c92-46a1-a00d-2aa74c6fb5df" />
+  <Project Path="IIoT.Infrastructure/IIoT.Infrastructure.csproj" Id="e57b4527-3e96-46e0-a988-52d67ec1885b" />
+</Solution>

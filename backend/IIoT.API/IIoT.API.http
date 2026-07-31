@@ -1,0 +1,6 @@
+@IIoT.API_HostAddress = http://localhost:5042
+
+GET {{IIoT.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
